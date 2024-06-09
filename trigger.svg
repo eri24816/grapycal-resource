@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.955801mm"
+   height="8.3287067mm"
+   viewBox="0 0 6.955801 8.3287067"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm" /><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-101.6007,-142.49044)"><polygon
+       points="1,1 17,10 1,19 "
+       fill="#55ff55"
+       stroke="#008800"
+       stroke-width="2"
+       id="polygon1"
+       transform="matrix(0.26458333,0,0,0.26458333,103.51891,145.33967)"
+       inkscape:export-filename="polygon1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" /><path
+       d="M 104.42579,142.92349 C 103.52151,144.15073 101.7563,146.6194 101.75359,146.65623 101.75089,146.68741 101.77797,146.70441 101.83211,146.71008 101.94022,146.72341 104.08768,146.425 104.11445,146.44366 104.14422,146.47485 102.21262,149.90314 102.24092,149.9525 102.24905,149.96384 102.27883,149.97518 102.3086,149.97518 102.37901,149.97518 106.43469,145.2561 106.43469,145.1739 106.43469,145.12573 106.41574,145.11154 106.33993,145.10587 106.26411,145.10021 104.64238,145.23626 104.14152,145.2901 104.03323,145.30144 104.01156,145.29578 104.01156,145.25892 104.01156,145.18602 104.72283,142.80902 104.71006,142.72224 104.70465,142.68256 104.68841,142.64855 104.67216,142.64288 104.65322,142.63722 104.5422,142.76193 104.42579,142.92349 Z"
+       fill="#ffdd00"
+       stroke="#888800"
+       stroke-width="0.705556"
+       id="path1"
+       style="stroke:#c2b700;stroke-width:0.306;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccccssscsccc" /></g></svg>

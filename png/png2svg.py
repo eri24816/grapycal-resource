@@ -10,7 +10,7 @@ def png2svg(file_name:str):
         raise Exception(f'ffmpeg failed with return code {res.returncode}')
     # Use potrace to convert the bmp to a svg
     svg_path = '../'+file_name+'.svg'
-    res = subprocess.run(['potrace','-s','-o',svg_path,bmp_path])
+    res = subprocess.run(['./potrace','-s','-o',svg_path,bmp_path])
     if res.returncode != 0:
         raise Exception(f'potrace failed with return code {res.returncode}')
     # Remove the bmp
